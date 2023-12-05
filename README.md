@@ -6,7 +6,7 @@
 ### Task List
 - Machine Learning
   - [x] Datasets
-  - [ ] Pre-processing
+  - [x] Pre-processing
   - [ ] Training and validation
   - [ ] Testing
 
