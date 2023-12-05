@@ -1,7 +1,7 @@
 <h1 align="center">KRUIGEN</h1>
-<span align="center">
+<p align="center">
   <img src="img/kruiden.png" alt="skinnea logo" height="180" />
-</span>
+</p>
 <h2 align="center">Product-based Capstone Project Bangkit 2023</h2>
 
 ### Task List
