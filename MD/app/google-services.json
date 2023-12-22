@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347452168760",
+    "project_id": "zeta-courage-405802",
+    "storage_bucket": "zeta-courage-405802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347452168760:android:102c985e4a0fbe18b864cd",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.kruidentapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347452168760-2u4mbjfkdmdc4h0cenpki8p7r5dad50t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_rZlIaNH9zGtH6UpIJIK_UNTxR4CO5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347452168760-2u4mbjfkdmdc4h0cenpki8p7r5dad50t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

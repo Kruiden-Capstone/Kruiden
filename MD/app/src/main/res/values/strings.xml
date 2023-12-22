@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">KruidentApps</string>
+    <string name="kruident">Kruident</string>
+    <string name="welcomeTitle">Welcome to</string>
+    <string name="singIn">Sing In</string>
+    <string name="SingUp">Sing Up</string>
+    <string name="Login">Login</string>
+    <string name="cekPassword">Passord at least 8 characters</string>
+    <string name="cekEmail">Email is incorrect!!!</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="search">Sakit apakah Anda??</string>
+    <string name="search1">Cari</string>
+    <string name="herbal">Herbal Name</string>
+    <string name="Description">Description</string>
+    <string name="imageHome">Image Home</string>
+    <string name="Delete">Delete Disease</string>
+    <string name="addDisease">Add Disease</string>
+    <string name="searchNama">Hi %s !</string>
+    <string name="searchTitle">Temukan manfaat kesehatan tanaman herbal dengan aplikasi kami!</string>
+    <string name="searchTitle2">Ceritakan keluhan sakit yang \nanda alami.</string>
+    <string name="inputDesire">Masukkan Text disini...</string>
+    <string name="searchNote">Minimal 2 Kalimat</string>
+    <string name="DiseaseNama">Batuk</string>
+    <string name="DetailTitle">Hasil rekomendasi tanaman herbal berdasarkan keluhan anda. </string>
+    <string name="error_login">Email or password cannot be empty</string>
+    <string name="faled_login">Login failed</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="email_empty">Email cannot be empty</string>
+    <string name="pass_empty">Password cannot be empty</string>
+    <string name="faled_register">Registration failed</string>
+    <string name="khasiat">khasiat</string>
+    <string name="detail_khasiat">Kelapa, dengan kandungan elektrolit dan nutrisi esensial, dapat membantu mengatasi demam berdarah dengan memberikan hidrasi yang diperlukan dan menggantikan cairan tubuh yang hilang akibat demam. Air kelapa juga mengandung senyawa antimikroba alami, memberikan dukungan tambahan dalam mempercepat pemulihan dan meningkatkan daya tahan tubuh selama kondisi demam berdarah.</string>
+    <string name="penyajian">saran penyajian\n</string>
+    <string name="saran">minum campuran air kelapa yang dicampur dengan air perasan 1 buah jeruk nipis yang diminum 2 kali sehari.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Cari Obat</string>
+    <string name="error">Penyakit Unresolve</string>
+    <string name="Hello">Hello!!</string>
+</resources>
