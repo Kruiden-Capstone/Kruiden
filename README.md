@@ -16,7 +16,7 @@
   - [X] Deploy App Engine: [API Recommend](https://kruigen-ch2-ps558.de.r.appspot.com/recommend)
 
 - Mobile Development
-  - [x] Layout
+  - [x] Layout: [Figma](https://www.figma.com/file/caKMUVfhZ4Yj2SgL8yd7Rc/spash?type=design&node-id=0-1&mode=design&t=cBg8AIPXzPJOpKRk-0)
   - [x] Kruiden Apps: [Kruiden.apk](MD/kruiden.apk)
 
 ## Implementation/Improvement & Reasoning
