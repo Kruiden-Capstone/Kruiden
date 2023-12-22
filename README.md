@@ -19,3 +19,12 @@
   - [x] Layout
   - [x] Kruiden Apps: [Kruiden.apk](MD/kruiden.apk)
 
+## Implementation/Improvement & Reasoning
+- ![Machine Learning](img/1-Implementation-MachineLearning%20.png)
+- ![Cloud Computing](img/2-Implementation-CloudComputing.png)
+- ![Mobile Development](img/3-Implementation-MobileDevelopment.png)
+
+## Result
+- ![Machine Learning](img/Result1-MachineLearning.png)
+- ![Cloud Computing](img/Result2-CloudComputing.png)
+- ![Mobile Development](img/Result3-MobileDevelopment.png)
